@@ -5,7 +5,7 @@ Este repositorio contiene el entorno de desarrollo para la **Sesión 2: Motores 
 ## 🚀 Características
 
 - ⚡ **Trino**: Motor de consultas distribuido ultrarrápido para análisis interactivo.  
-- 📁 Integración completa con **HDFS** y configuración sobre Docker.  
+- 📁 Integración completa con **MySQL/Postgres** y configuración sobre Docker.  
 - 🗄️ Ejemplos prácticos y scripts para cargar datos y ejecutar queries.  
 - 🔄 Entorno modular y fácil de extender para prácticas avanzadas.
 
